@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "315054711888",
+    "firebase_url": "https://nyumbakumi-babaa-default-rtdb.firebaseio.com",
+    "project_id": "nyumbakumi-babaa",
+    "storage_bucket": "nyumbakumi-babaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315054711888:android:f2dc960c541482f2e11d55",
+        "android_client_info": {
+          "package_name": "com.example.hifadhinotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMe885HixvTIkX2j-sL6j84G2ntGtLiJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315054711888:android:06d86f41fd72c9efe11d55",
+        "android_client_info": {
+          "package_name": "com.example.nyumbakumi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMe885HixvTIkX2j-sL6j84G2ntGtLiJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315054711888:android:64e2ca1397167192e11d55",
+        "android_client_info": {
+          "package_name": "com.example.sqlitedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMe885HixvTIkX2j-sL6j84G2ntGtLiJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
